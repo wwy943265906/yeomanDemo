@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.idea
+*.iml
+.dist
+coverage
+dist
+.DS_Store
+var
+diff
+jsonmap
+.history
